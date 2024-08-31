@@ -1,0 +1,8 @@
+7 12 20 50 20 25 1
+#eeee1eeeee#
+eee######eee
+e#cccccccc#e
+p#c######c#p
+e#cccccccc#e
+eee######eee
+#eeeexeeeee#

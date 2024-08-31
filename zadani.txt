@@ -1,0 +1,31 @@
+Pacman proti počítači
+
+Jedná se o hru která bude splňovat následujicí funkcionality: 
+
+1. Dodržování základních pravidel, sbírání bonusů, míncí a použivání teleportů.
+2. Bude implementováno několik druhů AI duchů. Hra bude umět zároveň zobrazovat různé duchy s různými AI.
+3. Lze načítat mapy ze souboru (bludiště, pozice mincí, bonusů, duchů, pacmana a teleportů).
+4. Konfigurovatelná obtížnost hry ze souboru (délka trvaní jednotlivých stavů duchů, velikost bludiště, herní mód)
+5. Škálovatelná obtížnost duchů (klasický mód a tzv. chase mód (duchové přímo pronásledují pacmana))
+
+Uživatelské prostředí je v terminálu. Uživatel při spuštění zádá název souboru, ze kterého chce načíst mapu a nastavení hry.
+Po načtení se spustí samotná hra. Hra končí v případě, kdy hráč sebere všechny mince z mapy, a nebo pokud je hráč zabit kolizí s některým duchem.
+
+Ovládání v menu:
+    příkaz play: spustí hru a umožní vybrat mapu.
+    příkaz exit: Ukončí hru.
+
+Ovládání při hře:
+    stisk w - nastaví směr pacmana nahoru
+    stisk s - nastaví směr pacmana dolu
+    stisk a - nastaví směr pacmana doleva
+    stisk d - nastaví směr pacmana doprava
+    stisk x - ukončení hry
+
+Využití polymorfismu:
+    Ve hře využívám 2 polymorfismy:
+        1) Políčka v bludišti : Každé políčko se chová jinak, jak při interakci, tak při průchodu. Díky polymorfismu je možné rozlišit, zdali se hráč chystá vstoupit
+           například na políčko s mincí, nebo do zdi. Pomocí ruzných reakcí od políček je možné jednoduše kontrolovat stav hry.
+        
+        2) Chování duchů : Každý duch honí Pacmana jiným způsobem nebo se chová jinak při tzv. "Scatter" fázi. Díky polymorfismu je možné držet si nějaký
+           kontejner s duchy a pak pouze volat jednotlivé metody.

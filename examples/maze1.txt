@@ -1,0 +1,22 @@
+21 27 20 40 20 25 0
+###########################
+#pcc4cccccccc#cccccccccccp#
+#c####c#####c#c####c#####c#
+#c####c#####c#c####c#####c#
+#ccccccccccccccccccccc3ccc#
+#c####c#c#########c#c####c#
+#cccccc#ccccc#ccccc#cccccc#
+######c#####e#e#####c######
+eeeee#c#eeeeexeeeee#c#eeeee
+eeeee#c#e###eee###e#c#eeeee
+######c#e#eeeeeee#e#c######
+TeeeeeceeeeeeeeeeeeeceeeeeT
+######c#e#########e#c######
+eeeee#c#eee1e2eeeee#c#eeeee
+eeeee#cee#########eec#eeeee
+######c#eeeeeeeeeee#c######
+#pccccccccccc#cccccccccccp#
+#c####c#####c#c####c#####c#
+#c####c#####c#c####c#####c#
+#eeeeeeeeeeeeeeeeeeeeeeeee#
+###########################

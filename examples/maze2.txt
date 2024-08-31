@@ -1,0 +1,14 @@
+13 27 20 60 25 25 0
+###################T#######
+#pccccccccccc#cccccccccccp#
+#c####c#####c#c####c#####c#
+#c####c#####c#c####c#####c#
+#ccccccccccccxccccccccccccT
+#c####c#c#########c#c####c#
+#cccccc#ccccc#ccccc#cccccc#
+######c#####e#e#####c######
+eeeee#c#eeeeeeeeeee#c#eeeee
+eeeee#c#e###234###e#c#eeeee
+######c#e#eee1eee#e#c######
+TcccccccccccccccccccccccccT
+###########################

@@ -1,0 +1,12 @@
+10 45 15 50 10 25 0
+#############################################
+#cccccccccccccccccccc###cccccccccccccccccccc#
+#c###c###c###c###c#########c###c###c###c###c#
+#c###c###c###c###c#p#e#e#p#c###c###c###c###c#
+Tccccccccccccccccccee1e3eeccccccccccccccccccT
+#c###c###c###c###c#p#e#e#p#c###c###c###c###c#
+#c###c###c###c###c#########c###c###c###c###c#
+#c###c###c###ccccc#eeexeee#c###c###c###c###c#
+#cccccccccccccccceeeeeeeeeeecccccccccccccccc#
+#############################################
+
